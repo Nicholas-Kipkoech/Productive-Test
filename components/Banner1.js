@@ -53,21 +53,6 @@ const Banner1 = () => {
               <Text style={{ color: "white" }}>Explore</Text>
             </TouchableOpacity>
           </View>
-          <View
-            style={{
-              marginTop: -80,
-              marginLeft: 90,
-              justifyContent: "space-around",
-            }}
-          >
-            <Image
-              source={{
-                uri: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d77c8f9a-c6e8-40a5-8332-910312bc86a5/blazer-mid-77-big-kids-shoes-4VfSTd.png",
-              }}
-              resizeMode="contain"
-              style={{ height: 100 }}
-            />
-          </View>
         </ImageBackground>
       </View>
     </SafeAreaView>
