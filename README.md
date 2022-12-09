@@ -37,3 +37,8 @@
   },
   "private": true
 } `
+
+
+> Sign in flow :
+1. Login -> home page
+2. Navigate between homepage and user profile after login
