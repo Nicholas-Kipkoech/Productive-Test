@@ -33,7 +33,7 @@ const Profile = () => {
           }}
         >
           <Ionicons name="people" size={30} />
-          <Text style={{ marginRight: 100, fontWeight: "600", fontSize: 20 }}>
+          <Text style={{ marginRight: 100, fontWeight: "600", fontSize: 16 }}>
             Profile Details{" "}
           </Text>
           <Ionicons name="chevron-forward-outline" size={20} />
@@ -47,12 +47,12 @@ const Profile = () => {
           }}
         >
           <Ionicons name="layers" size={30} />
-          <Text style={{ marginRight: 100, fontWeight: "600", fontSize: 20 }}>
+          <Text style={{ marginRight: 100, fontWeight: "600", fontSize: 16 }}>
             Account Info{" "}
           </Text>
           <Ionicons name="chevron-forward-outline" size={20} />
         </View>
-        <Text style={{ fontSize: 20, color: "gray", padding: 20 }}>
+        <Text style={{ fontSize: 20, color: "gray", padding: 16 }}>
           Contact Details
         </Text>
 
@@ -65,7 +65,7 @@ const Profile = () => {
           }}
         >
           <Ionicons name="mail" size={30} />
-          <Text style={{ marginRight: 80, fontWeight: "600", fontSize: 20 }}>
+          <Text style={{ marginRight: 80, fontWeight: "600", fontSize: 16 }}>
             Email Address{" "}
           </Text>
           <Ionicons name="chevron-forward-outline" size={20} />
@@ -79,7 +79,7 @@ const Profile = () => {
           }}
         >
           <Ionicons name="call" size={30} />
-          <Text style={{ marginRight: 80, fontWeight: "600", fontSize: 20 }}>
+          <Text style={{ marginRight: 80, fontWeight: "600", fontSize: 16 }}>
             Phone Number{" "}
           </Text>
           <Ionicons name="chevron-forward-outline" size={20} />
@@ -93,7 +93,7 @@ const Profile = () => {
           }}
         >
           <Ionicons name="location" size={30} />
-          <Text style={{ marginRight: 80, fontWeight: "600", fontSize: 20 }}>
+          <Text style={{ marginRight: 80, fontWeight: "600", fontSize: 16 }}>
             Address{" "}
           </Text>
           <Ionicons name="chevron-forward-outline" size={20} />
