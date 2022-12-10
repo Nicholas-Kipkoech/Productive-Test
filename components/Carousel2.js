@@ -6,16 +6,16 @@ const Carousel2 = () => {
   const images = [
     {
       id: 1,
-      url: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/879db1d0-b43a-4ee1-89b0-814d66e83638/go-flyease-easy-on-off-shoes-6nd2cc.png",
+      url: "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/6b3c5828-aebb-4d46-8d84-73f994f97c1a/air-jordan-7-retro-mens-shoes-7Zr804.png",
     },
     {
       id: 2,
-      url: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e8e530a3-2317-4783-819b-40860281daaf/streakfly-road-racing-shoes-V17qZm.png",
+      url: "https://static.nike.com/a/images/t_PDP_864_v1,f_auto,q_auto:eco/44129798-31cb-4fad-b95e-a602267ce1f9/air-jordan-14-retro-shoes-nQjT3b.png",
     },
     {
       id: 3,
 
-      url: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3c20bb9e-48d2-44e4-bb2a-abe502b11b50/air-max-270-shoes-s1JpCx.png",
+      url: "https://static.nike.com/a/images/t_PDP_864_v1,f_auto,q_auto:eco/bbe56b5c-07ed-4ce3-a5b5-e6d5c8f68a9b/air-jordan-12-retro-mens-shoes-kcMcpK.png",
     },
   ];
 
